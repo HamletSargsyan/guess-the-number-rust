@@ -1,5 +1,7 @@
 # guess-the-number-rust
 
+> [!WARNING]
+> этот проект не поддерживается, см. https://github.com/HamletSargsyan/guess-the-number
 
 ## Установка
 
